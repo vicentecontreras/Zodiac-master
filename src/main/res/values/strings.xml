@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Zodiac</string>
+    <string name="txt_login">Inicia Sesión</string>
+    <string name="hint_txt_login">Nombre de usuario</string>
+    <string name="txt_btn_login">Entrar</string>
+    <string name="txt_btn_consulta">Consulta</string>
+    <string name="txt_sel_zodiac">Selecciona un signo</string>
+    <string name="txt_zodiac">Signo :</string>
+    <string name="acuario">Acuario</string>
+    <string name="piscis">Piscis</string>
+    <string name="aries">Aries</string>
+    <string name="tauro">Tauro</string>
+    <string name="geminis">Géminis</string>
+    <string name="cancer">Cáncer</string>
+    <string name="leo">Leo</string>
+    <string name="virgo">Virgo</string>
+    <string name="libra">Libra</string>
+    <string name="escorpio">Escorpio</string>
+    <string name="sagitario">Sagitario</string>
+    <string name="capricornio">Capricornio</string>
+    <string name="txt_zodiac_desc">Aqui va lo que depara</string>
+
+    <string name="txt_acuario_fecha">22 enero al 21 febrero</string>
+    <string name="txt_acuario_desc">Si tienes la oportunidad el día
+        de hoy para conocer a alguien o de realmente decidir por una persona
+        que estás comenzando a querer, pero que quizás temes un poco el amarle,
+        dale rienda suelta a tus sentimientos, no debes frenarte
+        antes las posibilidades de amar, nunca.</string>
+
+    <string name="txt_piscis_fecha">22 febrero al 20 marzo</string>
+    <string name="txt_piscis_desc">Debes comenzar a luchar más por lo
+        que quieres, sobre todo en el ámbito laboral, ya que se vienen
+        desafíos que necesitarán de toda tu inteligencia y capacidad
+        dentro del área en la que te desempeñas.\n\n
+        Es un día difícil para las relaciones con otros, es muy probable
+        que el día de hoy tengas algún conflicto con alguien
+        conflictos, no será algo de mucha importancia.</string>
+
+    <string name="txt_aries_fecha">21 marzo al 20 abril.</string>
+    <string name="txt_aries_desc">En los estudios se vienen exámenes
+        complicados por lo que debes desde ya comenzar a prepararte,
+        recuerda que es tu futuro el que está en juego, si fallas podrías
+        lamentarlo, aunque siempre podrás intentarlo de nuevo.
+        El amor es importante, pero debe esperar el tiempo suficiente para
+        llegar a tu vida, es probable que aún no sea el día para amar.</string>
+
+    <string name="txt_tauro_fecha">21 abril al 21 mayo.</string>
+    <string name="txt_tauro_desc">Si decides tomar la opción de hacer
+        un viaje de todas formas, es mejor que pongas en orden tus
+        asuntos antes de hacerlo, pon ojo en esto.\n\n
+        No dejes que prestar atención a las cosas que debes hacer en
+        el trabajo, es probable que tengas poco tiempo para terminar
+        una tarea que te han encargado.</string>
+
+    <string name="txt_geminis_fecha">22 mayo al 21 junio.</string>
+    <string name="txt_geminis_desc">Comienza a vivir de forma más intensa
+        el amor, es probable que estés perdiendo las ganas de estar al
+        lado de la persona que te acompaña, vuelve a encantarte con su presencia.\n\n
+        En un momento de debilidad podrías caer en la tentación de estar con otra
+        persona aparte de la que ya tienes en este momento, recuerda que
+        esto no te traerá nada bueno, siempre nuestros actos erróneos tienen
+        consecuencias, no querrás perder a la persona que amas por una
+        aventura que no tiene futuro.
+    </string>
+
+    <string name="txt_cancer_fecha">22 junio al 22 julio.</string>
+    <string name="txt_cancer_desc">Si tienes que comenzar a estudiar
+        desde ahora para un examen, no sigas perdiendo tiempo.\n\n
+        Cuida más de tu cuerpo, haz ejercicio.\n\n
+        Si tienes planes para el fin de semana, tal vez sea momento de
+        cambiarlos, porque al parecer podría tener una cita con alguien
+        que te interesa mucho conocer, nadie dice que será algo seguro
+        y que se mantendrá en el tiempo, pero al menos será un buen rato
+        y debes disfrutarlo como tal.
+    </string>
+
+    <string name="txt_leo_fecha">23 julio al 22 agosto.</string>
+    <string name="txt_leo_desc">Haz un cambio positivo a tu imagen, es probable
+        que estés dejando de lado esto, recuerda que necesitas lucir bien para
+        conseguir buenas cosas en el trabajo.\n\n
+        Si tienes la posibilidad de decirle a alguien que le quieres mucho y
+        es verdad, díselo el día de hoy, se trata de alguien que siempre ha
+        estado para apoyarte, no te arrepentirás.</string>
+
+    <string name="txt_virgo_fecha">23 agosto al 22 septiembre.</string>
+    <string name="txt_virgo_desc">No deberías pensar siempre en todo lo que tienes
+        que hacer al otro día, muchas veces debemos solo concentrarnos en
+        nuestro presente, solo así podremos realizar de mejor manera las
+        tareas que debemos cumplir día a día.\n\n
+        El periodo de cansancio por el cual estuviste pasando recientemente está
+        acabando, por lo que puedes volver tranquilamente a tus labores diarias.</string>
+
+    <string name="txt_libra_fecha">23 septiembre al 22 octubre.</string>
+    <string name="txt_libra_desc">Consume menos grasas saturadas y menos comida
+        chatarra, tu cuerpo te lo agradecerá.\n\n
+        No escondas tus fantasías de tu pareja, si tienes algún deseo
+        íntimo que cumplir habla con esa persona y lleguen juntos a un entendimiento,
+        el juego que se dará entre ustedes los fortalecerá y
+        la pasión seguirá por mucho tiempo más.</string>
+
+    <string name="txt_escorpio_fecha">23 octubre al 21 noviembre.</string>
+    <string name="txt_escorpio_desc">El trabajo irá bien ya que descubrirás que
+        lo que haces como labor te entretiene y divierte.\n\n
+        Es probable que enfrentes algo de insomnio por las noches y
+        esto te está haciendo despertar un poco mal, sigue las
+        indicaciones que te han dado para poder conciliar el sueño.</string>
+
+    <string name="txt_sagitario_fecha">22 noviembre al 21 diciembre.</string>
+    <string name="txt_sagitario_desc">Un buen tiempo para el corazón y para curar
+        el alma de los dolores que vienes acarreando hace bastante tiempo.\n\n
+        Haz cambios en tu alimentación.\n\n
+        Si estás comprometido, la pareja te hará unas exigencias que quizás te sean
+        difíciles de cumplir por el escaso tiempo que tienes entre el trabajo
+        y tus otras obligaciones, trata de compensarle tomando un tiempo cada
+        noche para conversar sobre su día y para estar juntos.</string>
+
+    <string name="txt_capricornio_fecha">22 diciembre al 21 enero.</string>
+    <string name="txt_capricornio_desc">La etapa donde debías sacrificarte para tener
+        estabilidad económica ya está terminando, por lo que te recomiendo que vuelvas
+        a tus planes originales, sin descuidar por supuesto lo que has ganado hasta el momento.\n\n
+        Te está pasando la cuenta el esfuerzo físico o mental que has tenido que hacer
+        últimamente, es necesario tomarte un descanso, lo que significa que el
+        día de hoy deberías comenzar a ver la posibilidad de darte unos días para
+        ti y tu familia, si es que la tienes.</string>
+</resources>
